@@ -1,0 +1,17 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Foo",
+    "body": "Foo body"
+  },
+  "2": {
+    "id": 2,
+    "title": "Bar",
+    "body": "Bar body"
+  },
+  "3": {
+    "id": 3,
+    "title": "Hello World",
+    "body": "Hello World body"
+  }
+}
