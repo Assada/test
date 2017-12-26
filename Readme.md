@@ -1,3 +1,8 @@
+For Start:
+```bash
+php -S localhost:8000 web/index.php
+```
+
 1) Get token:
 ```
 POST http://localhost:8000/auth/token
